@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[TimeQuestion] - ...'" />
-    <option name="defaultScopeName" value="Directory '[TimeQuestion] - ...'" />
-    <option name="SEARCH_SCOPE" value="Directory '[TimeQuestion] - ...'" />
+    <option name="customScope" value="Directory '[endpoint-backend] - .../endpoint-backend'" />
+    <option name="defaultScopeName" value="Directory '[endpoint-backend] - .../endpoint-backend'" />
+    <option name="SEARCH_SCOPE" value="Directory '[endpoint-backend] - .../endpoint-backend'" />
   </component>
 </application>
